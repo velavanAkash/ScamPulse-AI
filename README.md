@@ -230,11 +230,26 @@ The following visualization files represent the actual visual outputs used for t
 
 ![Frequently Reported Numbers](Visualizations/reported_numbers.png)
 
+### Emerging Subjects
+
+![Emerging Subjects](Visualizations/emerging_subjects.png)
+
+### Emerging State
+
+![Emerging State](Visualizations/emerging_subjects.png)
+
+### Emerging Phone Numbers
+
+![Emerging Phone Numbers](Visualizations/emerging_subjects.png)
+
 ## Interactive Dashboard
 
 The project includes a standalone Plotly dashboard:
 
-[Open ScamPulse AI Interactive Dashboard](Visualizations/ScamPulse_AI_Dashboard.html)
+[Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op1.png)
+[Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op2.png)
+[Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op3.png)
+[Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op4.png)
 
 The dashboard brings together the project's KPI summary and interactive visualizations for temporal, subject, robocall, geographic, originating-number, and emerging-pattern analysis.
 
@@ -277,6 +292,13 @@ ScamPulse-AI/
 │   ├── robocall_analysis.png
 │   ├── geographic_analysis.png
 │   ├── reported_numbers.png
+│   ├── emerging_subjects.png
+│   ├── emerging_states.png
+│   ├── emerging_phone_numbers.png
+│   ├── dashboard_op1.png
+│   ├── dashboard_op2.png
+│   ├── dashboard_op3.png
+│   ├── dashboard_op4.png
 │   └── ScamPulse_AI_Dashboard.html
 │
 └── Documentation/
