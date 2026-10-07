@@ -246,10 +246,10 @@ The following visualization files represent the actual visual outputs used for t
 
 The project includes a standalone Plotly dashboard:
 
-[Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op1.png)
-[Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op2.png)
-[Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op3.png)
-[Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op4.png)
+![Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op1.png)
+![Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op2.png)
+![Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op3.png)
+![Open ScamPulse AI Interactive Dashboard](Visualizations/dashboard_op4.png)
 
 The dashboard brings together the project's KPI summary and interactive visualizations for temporal, subject, robocall, geographic, originating-number, and emerging-pattern analysis.
 
